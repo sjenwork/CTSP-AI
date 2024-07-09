@@ -26,10 +26,10 @@
   - 依據使用者選擇預測基準時間（後續說明中 `TimeIndex = 0` 的時間點），從資料庫中讀取後，整理成 `example_input.json` 的格式，並透過 API 送入模型。
   - 接收模型的輸出資料 `example_output.json` 後，繪製成圖表呈現在網頁上。
 - **流程示意圖**
-  - ![alt text](image.png)
+  - ![alt text](img/flowchart.png)
 
 - 頁面結果示意圖：
-  - ![alt text](image-1.png)
+  - ![alt text](img/result.png)
 
 ### `request.post` 請求格式
 - 輸入範例檔 
