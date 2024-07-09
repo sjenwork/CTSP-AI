@@ -1,16 +1,19 @@
 from tensorflow.keras.models import load_model
 from tensorflow.keras.optimizers import RMSprop
+import pathlib
 import json
 import pandas as pd
 import numpy as np
 
 
-def load_my_model():
+def load_my_model(nhr_history, nhr_prediction):
     targets = ["PM2.5", "O3"]
     models = {}
+    model_path = pathlib.Path(f"app/trainedModel/{nhr_history}_{nhr_prediction}/")
 
     for target in targets:
-        model = load_model(f"{target}訓練/{target.replace('.','')}_prediction_model.h5")
+        path = model_path / f"{target.replace('.','')}.h5"
+        model = load_model(str(path))
         optimizer = RMSprop(learning_rate=0.01)
         model.compile(optimizer=optimizer, loss="mean_squared_error")
         models[target] = model
@@ -53,7 +56,7 @@ def pred(data_all):
     return res
 
 
-models = load_my_model()
+models = load_my_model(168, 8)
 
 if __name__ == "__main__":
     with open("ctsp/example_input.json", "r") as f:
