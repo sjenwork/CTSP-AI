@@ -7,7 +7,7 @@ import numpy as np
 
 
 def load_my_model(nhr_history, nhr_prediction):
-    targets = ["PM2.5", "O3"]
+    targets = ["PM25", "O3"]
     models = {}
     model_path = pathlib.Path(f"app/trainedModel/{nhr_history}_{nhr_prediction}/")
 
@@ -36,7 +36,7 @@ def pred(data_all):
     history_data = data_anomaly.iloc[:168]
     prediction_data = data_anomaly.iloc[168:]
     features = list(data_anomaly.columns)
-    targets = ["PM2.5", "O3"]
+    targets = ["PM25", "O3"]
     results = []
     for target in targets:
         X = create_sequences(history_data, target=target)
@@ -46,6 +46,7 @@ def pred(data_all):
         result_df = data_anomaly.loc[:, [target]].copy().rename(columns={target: f"{target}_true"})
         result_df[f"{target}_pred"] = None
         result_df[f"{target}_pred"].iloc[-8:] = y_pred[0]
+        result_df[f"{target}_pred"].iloc[-9:-8] = result_df[f"{target}_true"].iloc[-9:-8].values
         result_df = result_df * std[target] + mean[target]
         results.append(result_df)
 

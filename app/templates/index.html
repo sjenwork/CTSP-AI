@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>空品預測</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <style>
+        @media (max-width: 767px) {
+            .container {
+                padding-left: 15px;
+                padding-right: 15px;
+            }
+        }
+        @media (min-width: 768px) and (max-width: 991px) {
+            .container {
+                padding-left: 30px;
+                padding-right: 30px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="mt-5">測站與時間選擇</h1>
+        <form action="/plot/" method="get" onsubmit="return validateForm()">
+            <div class="form-group">
+                <label for="station">測站:</label>
+                <select id="station" name="station" class="form-control">
+                    <option value="都會公園">都會公園</option>
+                    <option value="國安國小">國安國小</option>
+                    <option value="中科實中">中科實中</option>
+                    <option value="陽明國小">陽明國小</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="datetime">時間:</label>
+                <input type="datetime-local" id="datetime" name="datetime" class="form-control">
+            </div>
+            <button type="submit" class="btn btn-primary">提交</button>
+        </form>
+        <hr>
+        <h2>時間序列圖</h2>
+        {% if graph_html %}
+            <div id="graph-container">{{ graph_html | safe }}</div>
+        {% endif %}
+    </div>
+
+    <script>
+        function setDefaultDateTime() {
+            var now = new Date();
+            var year = now.getFullYear();
+            var month = ('0' + (now.getMonth() + 1)).slice(-2);
+            var day = ('0' + now.getDate()).slice(-2);
+            var hour = ('0' + now.getHours()).slice(-2);
+            var formattedDateTime = year + '-' + month + '-' + day + 'T' + hour + ':00';
+            document.getElementById('datetime').value = formattedDateTime;
+        }
+
+        function validateForm() {
+            var datetime = document.getElementById('datetime').value;
+            var selectedDate = new Date(datetime);
+            var now = new Date();
+            now.setMinutes(0, 0, 0); // 忽略當前時間的分鐘和秒數
+
+            if (!datetime) {
+                alert('請選擇時間');
+                return false;
+            }
+
+            if (selectedDate > now) {
+                alert('選擇的時間不能超過現在');
+                return false;
+            }
+
+            return true;
+        }
+
+        window.onload = setDefaultDateTime;
+    </script>
+</body>
+</html>
