@@ -5,7 +5,7 @@ from pydantic import BaseModel
 
 class TimeSeriesData(BaseModel):
     TimePoint: str
-    PM2_5: Optional[float]
+    PM25: Optional[float]
     PM10: Optional[float]
     P: Optional[float]
     WS: Optional[float]
@@ -23,7 +23,7 @@ class TimeSeriesData(BaseModel):
 
 
 class MeanData(BaseModel):
-    PM2_5: Optional[float]
+    PM25: Optional[float]
     PM10: Optional[float]
     P: Optional[float]
     WS: Optional[float]
@@ -40,7 +40,7 @@ class MeanData(BaseModel):
 
 
 class StdData(BaseModel):
-    PM2_5: Optional[float]
+    PM25: Optional[float]
     PM10: Optional[float]
     P: Optional[float]
     WS: Optional[float]
