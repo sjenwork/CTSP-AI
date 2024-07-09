@@ -1,6 +1,8 @@
 from app.func.utils import pred
-from fastapi import FastAPI, Request, Query
+from fastapi import FastAPI, Request, Query, HTTPException
 from fastapi.responses import HTMLResponse, JSONResponse
+from fastapi.exceptions import RequestValidationError
+from starlette.exceptions import HTTPException as StarletteHTTPException
 from fastapi.templating import Jinja2Templates
 from contextlib import asynccontextmanager
 import plotly.graph_objects as go
@@ -76,6 +78,42 @@ async def receive_data(data: PredictorData):
 
 # 以下為 templates 的部分
 templates = Jinja2Templates(directory="app/templates")
+
+
+@app.exception_handler(HTTPException)
+async def custom_http_exception_handler(request: Request, exc: HTTPException):
+    return HTMLResponse(
+        content=f"""
+        <html>
+            <head>
+                <title>{exc.status_code} Error</title>
+            </head>
+            <body>
+                <h1>{exc.status_code} Error</h1>
+                <p>{exc.detail}</p>
+            </body>
+        </html>
+        """,
+        status_code=exc.status_code,
+    )
+
+
+@app.exception_handler(RequestValidationError)
+async def validation_exception_handler(request: Request, exc: RequestValidationError):
+    return HTMLResponse(
+        content="""
+        <html>
+            <head>
+                <title>422 Unprocessable Entity</title>
+            </head>
+            <body>
+                <h1>422 Unprocessable Entity</h1>
+                <p>Validation error occurred. Please check your parameters.</p>
+            </body>
+        </html>
+        """,
+        status_code=422,
+    )
 
 
 @app.get("/", response_class=HTMLResponse)

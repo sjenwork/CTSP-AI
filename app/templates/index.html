@@ -26,7 +26,7 @@
 </head>
 <body>
     <div class="container">
-        <h1 class="mt-5">測站與時間選擇</h1>
+        <h3 class="mt-5">LSTM 空品預測</h3>
         <form action="/plot/" method="get" onsubmit="return validateForm()">
             <div class="form-group">
                 <label for="station">測站:</label>
@@ -44,8 +44,8 @@
             <button type="submit" class="btn btn-primary">提交</button>
         </form>
         <hr>
-        <h2>時間序列圖</h2>
         {% if graph_html %}
+            <h4>{{station}}</h4>
             <div id="graph-container">{{ graph_html | safe }}</div>
         {% endif %}
     </div>
