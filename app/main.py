@@ -1,5 +1,5 @@
 from app.func.utils import pred
-from fastapi import FastAPI, Request, Query, HTTPException
+from fastapi import FastAPI, Request, Query, HTTPException, APIRouter
 from fastapi.responses import HTMLResponse, JSONResponse
 from fastapi.exceptions import RequestValidationError
 from starlette.exceptions import HTTPException as StarletteHTTPException
@@ -28,6 +28,9 @@ with open("app/config/logging_config.yaml", "r") as file:
 
 
 app = FastAPI(title="CTSP AI Predictor API")
+router = APIRouter(prefix="/ai")
+
+
 logger = logging.getLogger("prod")
 
 
@@ -65,12 +68,12 @@ async def middleware(request: Request, call_next):
         )
 
 
-@app.get("/api/test")
+@router.get("/api/test")
 def test():
     return {"status": "ok"}
 
 
-@app.post("/api/predict")
+@router.post("/api/predict")
 async def receive_data(data: PredictorData):
     res = pred(data.model_dump())
     return res
@@ -116,13 +119,13 @@ async def validation_exception_handler(request: Request, exc: RequestValidationE
     )
 
 
-@app.get("/", response_class=HTMLResponse)
+@router.get("/", response_class=HTMLResponse)
 async def read_root(request: Request):
     print(request.url.path)
     return templates.TemplateResponse("index.html", {"request": request})
 
 
-@app.get("/plot/", response_class=HTMLResponse)
+@router.get("/plot/", response_class=HTMLResponse)
 async def get_plot(request: Request, station: str = Query(...), datetime: str = Query(...)):
 
     # 取得數據
@@ -228,6 +231,7 @@ def create_time(select_time):
     return time_points
 
 
+app.include_router(router)
 if __name__ == "__main__":
     import sys
     import os
