@@ -1,4 +1,8 @@
 __pycache__
 *.pyc
-logs/
+app/logs/
+log/
 update-for-ctsp/
+Quotation*
+.DS_Store
+app/trainedModel/168_8/
