@@ -32,8 +32,8 @@
   - ![alt text](img/result.png)
 
 ### `request.post` 請求格式
-- 輸入範例檔 
-  `example_input.json`
+- 輸入範例檔 :
+  [連結](https://raw.githubusercontent.com/sjenwork/CTSP-AI/main/dev/ctsp/example_input.json)
 - 格式如下：
 ```json
 {
