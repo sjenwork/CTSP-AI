@@ -1,0 +1,1410 @@
+[
+    {
+        "TimePoint": "2024-05-27 07:00",
+        "TimeIndex": -167,
+        "PM25_true": 16.0,
+        "PM25_pred": null,
+        "O3_true": 8.241000175476074,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-27 08:00",
+        "TimeIndex": -166,
+        "PM25_true": 12.0,
+        "PM25_pred": null,
+        "O3_true": 11.52200031280518,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-27 09:00",
+        "TimeIndex": -165,
+        "PM25_true": 15.0,
+        "PM25_pred": null,
+        "O3_true": 18.360000610351562,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-27 10:00",
+        "TimeIndex": -164,
+        "PM25_true": 7.0,
+        "PM25_pred": null,
+        "O3_true": 18.35499954223633,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-27 11:00",
+        "TimeIndex": -163,
+        "PM25_true": 8.0,
+        "PM25_pred": null,
+        "O3_true": 23.05900001525879,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-27 12:00",
+        "TimeIndex": -162,
+        "PM25_true": 11.0,
+        "PM25_pred": null,
+        "O3_true": 17.88800048828125,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-27 13:00",
+        "TimeIndex": -161,
+        "PM25_true": 6.000000000000002,
+        "PM25_pred": null,
+        "O3_true": 22.78700065612793,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-27 14:00",
+        "TimeIndex": -160,
+        "PM25_true": 2.0000000000000018,
+        "PM25_pred": null,
+        "O3_true": 27.21599960327148,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-27 15:00",
+        "TimeIndex": -159,
+        "PM25_true": 3.0,
+        "PM25_pred": null,
+        "O3_true": 28.88400077819824,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-27 16:00",
+        "TimeIndex": -158,
+        "PM25_true": 2.0000000000000018,
+        "PM25_pred": null,
+        "O3_true": 28.49399948120117,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-27 17:00",
+        "TimeIndex": -157,
+        "PM25_true": 5.0,
+        "PM25_pred": null,
+        "O3_true": 21.89500045776367,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-27 18:00",
+        "TimeIndex": -156,
+        "PM25_true": 10.0,
+        "PM25_pred": null,
+        "O3_true": 19.23600006103516,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-27 19:00",
+        "TimeIndex": -155,
+        "PM25_true": 8.0,
+        "PM25_pred": null,
+        "O3_true": 10.13700008392334,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-27 20:00",
+        "TimeIndex": -154,
+        "PM25_true": 9.0,
+        "PM25_pred": null,
+        "O3_true": 7.35699987411499,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-27 21:00",
+        "TimeIndex": -153,
+        "PM25_true": 9.0,
+        "PM25_pred": null,
+        "O3_true": 7.170000076293942,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-27 22:00",
+        "TimeIndex": -152,
+        "PM25_true": 6.000000000000002,
+        "PM25_pred": null,
+        "O3_true": 8.609000205993652,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-27 23:00",
+        "TimeIndex": -151,
+        "PM25_true": 5.0,
+        "PM25_pred": null,
+        "O3_true": 8.437000274658203,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-28 00:00",
+        "TimeIndex": -150,
+        "PM25_true": 12.0,
+        "PM25_pred": null,
+        "O3_true": 6.948999881744385,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-28 01:00",
+        "TimeIndex": -149,
+        "PM25_true": 9.0,
+        "PM25_pred": null,
+        "O3_true": 6.290999889373779,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-28 02:00",
+        "TimeIndex": -148,
+        "PM25_true": 9.0,
+        "PM25_pred": null,
+        "O3_true": 8.140000343322754,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-28 03:00",
+        "TimeIndex": -147,
+        "PM25_true": 8.0,
+        "PM25_pred": null,
+        "O3_true": 9.109999656677246,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-28 04:00",
+        "TimeIndex": -146,
+        "PM25_true": 6.000000000000002,
+        "PM25_pred": null,
+        "O3_true": 9.670000076293945,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-28 05:00",
+        "TimeIndex": -145,
+        "PM25_true": 6.000000000000002,
+        "PM25_pred": null,
+        "O3_true": 8.23799991607666,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-28 06:00",
+        "TimeIndex": -144,
+        "PM25_true": 9.0,
+        "PM25_pred": null,
+        "O3_true": 7.419000148773193,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-28 07:00",
+        "TimeIndex": -143,
+        "PM25_true": 7.0,
+        "PM25_pred": null,
+        "O3_true": 7.945000171661377,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-28 08:00",
+        "TimeIndex": -142,
+        "PM25_true": 4.0,
+        "PM25_pred": null,
+        "O3_true": 8.01200008392334,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-28 09:00",
+        "TimeIndex": -141,
+        "PM25_true": 6.000000000000002,
+        "PM25_pred": null,
+        "O3_true": 14.58800029754639,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-28 10:00",
+        "TimeIndex": -140,
+        "PM25_true": 5.0,
+        "PM25_pred": null,
+        "O3_true": 18.85300064086914,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-28 11:00",
+        "TimeIndex": -139,
+        "PM25_true": 7.0,
+        "PM25_pred": null,
+        "O3_true": 32.32899856567383,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-28 12:00",
+        "TimeIndex": -138,
+        "PM25_true": 8.0,
+        "PM25_pred": null,
+        "O3_true": 43.66699981689453,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-28 13:00",
+        "TimeIndex": -137,
+        "PM25_true": 10.0,
+        "PM25_pred": null,
+        "O3_true": 51.90000152587891,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-28 14:00",
+        "TimeIndex": -136,
+        "PM25_true": 16.0,
+        "PM25_pred": null,
+        "O3_true": 57.92599868774414,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-28 15:00",
+        "TimeIndex": -135,
+        "PM25_true": 11.0,
+        "PM25_pred": null,
+        "O3_true": 57.96599960327148,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-28 16:00",
+        "TimeIndex": -134,
+        "PM25_true": 16.0,
+        "PM25_pred": null,
+        "O3_true": 58.39699935913086,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-28 17:00",
+        "TimeIndex": -133,
+        "PM25_true": 14.0,
+        "PM25_pred": null,
+        "O3_true": 52.24300003051758,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-28 18:00",
+        "TimeIndex": -132,
+        "PM25_true": 13.0,
+        "PM25_pred": null,
+        "O3_true": 48.21099853515625,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-28 19:00",
+        "TimeIndex": -131,
+        "PM25_true": 11.0,
+        "PM25_pred": null,
+        "O3_true": 47.48799896240234,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-28 20:00",
+        "TimeIndex": -130,
+        "PM25_true": 7.0,
+        "PM25_pred": null,
+        "O3_true": 48.50400161743164,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-28 21:00",
+        "TimeIndex": -129,
+        "PM25_true": 15.0,
+        "PM25_pred": null,
+        "O3_true": 46.05799865722656,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-28 22:00",
+        "TimeIndex": -128,
+        "PM25_true": 17.0,
+        "PM25_pred": null,
+        "O3_true": 41.69599914550781,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-28 23:00",
+        "TimeIndex": -127,
+        "PM25_true": 10.0,
+        "PM25_pred": null,
+        "O3_true": 32.81999969482422,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-29 00:00",
+        "TimeIndex": -126,
+        "PM25_true": 13.0,
+        "PM25_pred": null,
+        "O3_true": 28.42200088500977,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-29 01:00",
+        "TimeIndex": -125,
+        "PM25_true": 17.0,
+        "PM25_pred": null,
+        "O3_true": 36.61600112915039,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-29 02:00",
+        "TimeIndex": -124,
+        "PM25_true": 10.0,
+        "PM25_pred": null,
+        "O3_true": 39.22299957275391,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-29 03:00",
+        "TimeIndex": -123,
+        "PM25_true": 9.0,
+        "PM25_pred": null,
+        "O3_true": 38.54199981689453,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-29 04:00",
+        "TimeIndex": -122,
+        "PM25_true": 14.0,
+        "PM25_pred": null,
+        "O3_true": 36.66799926757812,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-29 05:00",
+        "TimeIndex": -121,
+        "PM25_true": 14.0,
+        "PM25_pred": null,
+        "O3_true": 32.51800155639648,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-29 06:00",
+        "TimeIndex": -120,
+        "PM25_true": 8.0,
+        "PM25_pred": null,
+        "O3_true": 24.4640007019043,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-29 07:00",
+        "TimeIndex": -119,
+        "PM25_true": 15.0,
+        "PM25_pred": null,
+        "O3_true": 17.99900054931641,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-29 08:00",
+        "TimeIndex": -118,
+        "PM25_true": 6.000000000000002,
+        "PM25_pred": null,
+        "O3_true": 15.05700016021729,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-29 09:00",
+        "TimeIndex": -117,
+        "PM25_true": 13.0,
+        "PM25_pred": null,
+        "O3_true": 19.63999938964844,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-29 10:00",
+        "TimeIndex": -116,
+        "PM25_true": 10.0,
+        "PM25_pred": null,
+        "O3_true": 24.25600051879883,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-29 11:00",
+        "TimeIndex": -115,
+        "PM25_true": 10.0,
+        "PM25_pred": null,
+        "O3_true": 32.60699844360352,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-29 12:00",
+        "TimeIndex": -114,
+        "PM25_true": 13.0,
+        "PM25_pred": null,
+        "O3_true": 46.50899887084961,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-29 13:00",
+        "TimeIndex": -113,
+        "PM25_true": 16.0,
+        "PM25_pred": null,
+        "O3_true": 67.53900146484375,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-29 14:00",
+        "TimeIndex": -112,
+        "PM25_true": 24.0,
+        "PM25_pred": null,
+        "O3_true": 75.03399658203125,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-29 15:00",
+        "TimeIndex": -111,
+        "PM25_true": 17.0,
+        "PM25_pred": null,
+        "O3_true": 73.40299987792969,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-29 16:00",
+        "TimeIndex": -110,
+        "PM25_true": 19.0,
+        "PM25_pred": null,
+        "O3_true": 69.63899993896484,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-29 17:00",
+        "TimeIndex": -109,
+        "PM25_true": 19.0,
+        "PM25_pred": null,
+        "O3_true": 61.21599960327148,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-29 18:00",
+        "TimeIndex": -108,
+        "PM25_true": 25.0,
+        "PM25_pred": null,
+        "O3_true": 47.33300018310547,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-29 19:00",
+        "TimeIndex": -107,
+        "PM25_true": 29.0,
+        "PM25_pred": null,
+        "O3_true": 21.39500045776367,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-29 20:00",
+        "TimeIndex": -106,
+        "PM25_true": 21.0,
+        "PM25_pred": null,
+        "O3_true": 26.76399993896484,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-29 21:00",
+        "TimeIndex": -105,
+        "PM25_true": 17.0,
+        "PM25_pred": null,
+        "O3_true": 29.72400093078613,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-29 22:00",
+        "TimeIndex": -104,
+        "PM25_true": 15.0,
+        "PM25_pred": null,
+        "O3_true": 19.04500007629395,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-29 23:00",
+        "TimeIndex": -103,
+        "PM25_true": 21.0,
+        "PM25_pred": null,
+        "O3_true": 13.78299999237061,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-30 00:00",
+        "TimeIndex": -102,
+        "PM25_true": 24.0,
+        "PM25_pred": null,
+        "O3_true": 2.132999897003174,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-30 01:00",
+        "TimeIndex": -101,
+        "PM25_true": 16.0,
+        "PM25_pred": null,
+        "O3_true": 12.083999633789059,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-30 02:00",
+        "TimeIndex": -100,
+        "PM25_true": 15.0,
+        "PM25_pred": null,
+        "O3_true": 17.43899917602539,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-30 03:00",
+        "TimeIndex": -99,
+        "PM25_true": 17.0,
+        "PM25_pred": null,
+        "O3_true": 20.59199905395508,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-30 04:00",
+        "TimeIndex": -98,
+        "PM25_true": 18.0,
+        "PM25_pred": null,
+        "O3_true": 14.17300033569336,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-30 05:00",
+        "TimeIndex": -97,
+        "PM25_true": 16.0,
+        "PM25_pred": null,
+        "O3_true": 17.2859992980957,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-30 06:00",
+        "TimeIndex": -96,
+        "PM25_true": 12.0,
+        "PM25_pred": null,
+        "O3_true": 25.88699913024902,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-30 07:00",
+        "TimeIndex": -95,
+        "PM25_true": 17.0,
+        "PM25_pred": null,
+        "O3_true": 32.88100051879883,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-30 08:00",
+        "TimeIndex": -94,
+        "PM25_true": 11.0,
+        "PM25_pred": null,
+        "O3_true": 41.09799957275391,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-30 09:00",
+        "TimeIndex": -93,
+        "PM25_true": 16.0,
+        "PM25_pred": null,
+        "O3_true": 46.98699951171875,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-30 10:00",
+        "TimeIndex": -92,
+        "PM25_true": 9.0,
+        "PM25_pred": null,
+        "O3_true": 58.60499954223633,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-30 11:00",
+        "TimeIndex": -91,
+        "PM25_true": 14.0,
+        "PM25_pred": null,
+        "O3_true": 65.97599792480469,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-30 12:00",
+        "TimeIndex": -90,
+        "PM25_true": 12.0,
+        "PM25_pred": null,
+        "O3_true": 73.74099731445312,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-30 13:00",
+        "TimeIndex": -89,
+        "PM25_true": 12.0,
+        "PM25_pred": null,
+        "O3_true": 79.87100219726562,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-30 14:00",
+        "TimeIndex": -88,
+        "PM25_true": 20.0,
+        "PM25_pred": null,
+        "O3_true": 70.0530014038086,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-30 15:00",
+        "TimeIndex": -87,
+        "PM25_true": 22.0,
+        "PM25_pred": null,
+        "O3_true": 55.5099983215332,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-30 16:00",
+        "TimeIndex": -86,
+        "PM25_true": 14.0,
+        "PM25_pred": null,
+        "O3_true": 47.61999893188477,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-30 17:00",
+        "TimeIndex": -85,
+        "PM25_true": 15.0,
+        "PM25_pred": null,
+        "O3_true": 39.99599838256836,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-30 18:00",
+        "TimeIndex": -84,
+        "PM25_true": 15.0,
+        "PM25_pred": null,
+        "O3_true": 33.15599822998047,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-30 19:00",
+        "TimeIndex": -83,
+        "PM25_true": 13.0,
+        "PM25_pred": null,
+        "O3_true": 29.44099998474121,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-30 20:00",
+        "TimeIndex": -82,
+        "PM25_true": 8.0,
+        "PM25_pred": null,
+        "O3_true": 24.66900062561035,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-30 21:00",
+        "TimeIndex": -81,
+        "PM25_true": 8.0,
+        "PM25_pred": null,
+        "O3_true": 16.15099906921387,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-30 22:00",
+        "TimeIndex": -80,
+        "PM25_true": 10.0,
+        "PM25_pred": null,
+        "O3_true": 15.48499965667725,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-30 23:00",
+        "TimeIndex": -79,
+        "PM25_true": 12.0,
+        "PM25_pred": null,
+        "O3_true": 12.444000244140621,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-31 00:00",
+        "TimeIndex": -78,
+        "PM25_true": 12.0,
+        "PM25_pred": null,
+        "O3_true": 10.60000038146973,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-31 01:00",
+        "TimeIndex": -77,
+        "PM25_true": 12.0,
+        "PM25_pred": null,
+        "O3_true": 11.642999649047848,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-31 02:00",
+        "TimeIndex": -76,
+        "PM25_true": 8.0,
+        "PM25_pred": null,
+        "O3_true": 7.166999816894531,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-31 03:00",
+        "TimeIndex": -75,
+        "PM25_true": 5.0,
+        "PM25_pred": null,
+        "O3_true": 7.173999786376953,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-31 04:00",
+        "TimeIndex": -74,
+        "PM25_true": 6.000000000000002,
+        "PM25_pred": null,
+        "O3_true": 9.121999740600586,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-31 05:00",
+        "TimeIndex": -73,
+        "PM25_true": 9.0,
+        "PM25_pred": null,
+        "O3_true": 5.1539998054504395,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-31 06:00",
+        "TimeIndex": -72,
+        "PM25_true": 9.0,
+        "PM25_pred": null,
+        "O3_true": 10.17399978637695,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-31 07:00",
+        "TimeIndex": -71,
+        "PM25_true": 8.0,
+        "PM25_pred": null,
+        "O3_true": 17.54400062561035,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-31 08:00",
+        "TimeIndex": -70,
+        "PM25_true": 5.0,
+        "PM25_pred": null,
+        "O3_true": 25.80200004577637,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-31 09:00",
+        "TimeIndex": -69,
+        "PM25_true": 8.0,
+        "PM25_pred": null,
+        "O3_true": 34.19599914550781,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-31 10:00",
+        "TimeIndex": -68,
+        "PM25_true": 7.173913043478262,
+        "PM25_pred": null,
+        "O3_true": 37.13399887084961,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-31 11:00",
+        "TimeIndex": -67,
+        "PM25_true": 7.0,
+        "PM25_pred": null,
+        "O3_true": 32.77099990844727,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-31 12:00",
+        "TimeIndex": -66,
+        "PM25_true": 3.0,
+        "PM25_pred": null,
+        "O3_true": 30.36599922180176,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-31 13:00",
+        "TimeIndex": -65,
+        "PM25_true": 7.0,
+        "PM25_pred": null,
+        "O3_true": 37.49300003051758,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-31 14:00",
+        "TimeIndex": -64,
+        "PM25_true": 6.000000000000002,
+        "PM25_pred": null,
+        "O3_true": 37.63399887084961,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-31 15:00",
+        "TimeIndex": -63,
+        "PM25_true": 8.0,
+        "PM25_pred": null,
+        "O3_true": 38.25500106811523,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-31 16:00",
+        "TimeIndex": -62,
+        "PM25_true": 8.0,
+        "PM25_pred": null,
+        "O3_true": 28.87700080871582,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-31 17:00",
+        "TimeIndex": -61,
+        "PM25_true": 8.0,
+        "PM25_pred": null,
+        "O3_true": 24.25300025939941,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-31 18:00",
+        "TimeIndex": -60,
+        "PM25_true": 6.000000000000002,
+        "PM25_pred": null,
+        "O3_true": 20.51000022888184,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-31 19:00",
+        "TimeIndex": -59,
+        "PM25_true": 7.0,
+        "PM25_pred": null,
+        "O3_true": 15.94699954986572,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-31 20:00",
+        "TimeIndex": -58,
+        "PM25_true": 6.000000000000002,
+        "PM25_pred": null,
+        "O3_true": 12.619999885559078,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-31 21:00",
+        "TimeIndex": -57,
+        "PM25_true": 6.000000000000002,
+        "PM25_pred": null,
+        "O3_true": 11.482999801635739,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-31 22:00",
+        "TimeIndex": -56,
+        "PM25_true": 6.000000000000002,
+        "PM25_pred": null,
+        "O3_true": 12.381999969482418,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-05-31 23:00",
+        "TimeIndex": -55,
+        "PM25_true": 5.0,
+        "PM25_pred": null,
+        "O3_true": 9.640999794006348,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-01 00:00",
+        "TimeIndex": -54,
+        "PM25_true": 11.0,
+        "PM25_pred": null,
+        "O3_true": 14.66899967193604,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-01 01:00",
+        "TimeIndex": -53,
+        "PM25_true": 7.0,
+        "PM25_pred": null,
+        "O3_true": 11.079999923706051,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-01 02:00",
+        "TimeIndex": -52,
+        "PM25_true": 5.0,
+        "PM25_pred": null,
+        "O3_true": 9.60099983215332,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-01 03:00",
+        "TimeIndex": -51,
+        "PM25_true": 7.0,
+        "PM25_pred": null,
+        "O3_true": 6.281000137329102,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-01 04:00",
+        "TimeIndex": -50,
+        "PM25_true": 8.0,
+        "PM25_pred": null,
+        "O3_true": 4.059999942779541,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-01 05:00",
+        "TimeIndex": -49,
+        "PM25_true": 8.0,
+        "PM25_pred": null,
+        "O3_true": 3.431999921798706,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-01 06:00",
+        "TimeIndex": -48,
+        "PM25_true": 11.0,
+        "PM25_pred": null,
+        "O3_true": 4.7210001945495605,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-01 07:00",
+        "TimeIndex": -47,
+        "PM25_true": 8.0,
+        "PM25_pred": null,
+        "O3_true": 11.116999626159672,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-01 08:00",
+        "TimeIndex": -46,
+        "PM25_true": 7.0,
+        "PM25_pred": null,
+        "O3_true": 18.04999923706055,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-01 09:00",
+        "TimeIndex": -45,
+        "PM25_true": 7.0,
+        "PM25_pred": null,
+        "O3_true": 24.63500022888184,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-01 10:00",
+        "TimeIndex": -44,
+        "PM25_true": 9.0,
+        "PM25_pred": null,
+        "O3_true": 27.67700004577637,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-01 11:00",
+        "TimeIndex": -43,
+        "PM25_true": 12.0,
+        "PM25_pred": null,
+        "O3_true": 19.77199935913086,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-01 12:00",
+        "TimeIndex": -42,
+        "PM25_true": 12.0,
+        "PM25_pred": null,
+        "O3_true": 10.819000244140621,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-01 13:00",
+        "TimeIndex": -41,
+        "PM25_true": 11.0,
+        "PM25_pred": null,
+        "O3_true": 14.8730001449585,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-01 14:00",
+        "TimeIndex": -40,
+        "PM25_true": 7.0,
+        "PM25_pred": null,
+        "O3_true": 14.10099983215332,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-01 15:00",
+        "TimeIndex": -39,
+        "PM25_true": 8.0,
+        "PM25_pred": null,
+        "O3_true": 13.619999885559078,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-01 16:00",
+        "TimeIndex": -38,
+        "PM25_true": 6.000000000000002,
+        "PM25_pred": null,
+        "O3_true": 11.131999969482418,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-01 17:00",
+        "TimeIndex": -37,
+        "PM25_true": 6.000000000000002,
+        "PM25_pred": null,
+        "O3_true": 9.76200008392334,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-01 18:00",
+        "TimeIndex": -36,
+        "PM25_true": 9.0,
+        "PM25_pred": null,
+        "O3_true": 4.808000087738041,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-01 19:00",
+        "TimeIndex": -35,
+        "PM25_true": 18.0,
+        "PM25_pred": null,
+        "O3_true": 3.3910000324249268,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-01 20:00",
+        "TimeIndex": -34,
+        "PM25_true": 16.0,
+        "PM25_pred": null,
+        "O3_true": 2.630000114440918,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-01 21:00",
+        "TimeIndex": -33,
+        "PM25_true": 15.0,
+        "PM25_pred": null,
+        "O3_true": 2.8350000381469727,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-01 22:00",
+        "TimeIndex": -32,
+        "PM25_true": 13.0,
+        "PM25_pred": null,
+        "O3_true": 2.9639999866485596,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-01 23:00",
+        "TimeIndex": -31,
+        "PM25_true": 14.0,
+        "PM25_pred": null,
+        "O3_true": 5.921000003814697,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-02 00:00",
+        "TimeIndex": -30,
+        "PM25_true": 9.0,
+        "PM25_pred": null,
+        "O3_true": 3.7550001144409144,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-02 01:00",
+        "TimeIndex": -29,
+        "PM25_true": 14.0,
+        "PM25_pred": null,
+        "O3_true": 3.5759999752044678,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-02 02:00",
+        "TimeIndex": -28,
+        "PM25_true": 8.0,
+        "PM25_pred": null,
+        "O3_true": 5.374000072479248,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-02 03:00",
+        "TimeIndex": -27,
+        "PM25_true": 7.0,
+        "PM25_pred": null,
+        "O3_true": 6.455999851226807,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-02 04:00",
+        "TimeIndex": -26,
+        "PM25_true": 17.0,
+        "PM25_pred": null,
+        "O3_true": 4.763000011444092,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-02 05:00",
+        "TimeIndex": -25,
+        "PM25_true": 10.0,
+        "PM25_pred": null,
+        "O3_true": 4.105999946594238,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-02 06:00",
+        "TimeIndex": -24,
+        "PM25_true": 6.000000000000002,
+        "PM25_pred": null,
+        "O3_true": 8.00100040435791,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-02 07:00",
+        "TimeIndex": -23,
+        "PM25_true": 13.0,
+        "PM25_pred": null,
+        "O3_true": 6.859000205993652,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-02 08:00",
+        "TimeIndex": -22,
+        "PM25_true": 10.0,
+        "PM25_pred": null,
+        "O3_true": 3.7950000762939453,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-02 09:00",
+        "TimeIndex": -21,
+        "PM25_true": 15.0,
+        "PM25_pred": null,
+        "O3_true": 7.955999851226807,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-02 10:00",
+        "TimeIndex": -20,
+        "PM25_true": 10.0,
+        "PM25_pred": null,
+        "O3_true": 15.55200004577637,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-02 11:00",
+        "TimeIndex": -19,
+        "PM25_true": 7.0,
+        "PM25_pred": null,
+        "O3_true": 14.78699970245361,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-02 12:00",
+        "TimeIndex": -18,
+        "PM25_true": 8.0,
+        "PM25_pred": null,
+        "O3_true": 18.17900085449219,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-02 13:00",
+        "TimeIndex": -17,
+        "PM25_true": 7.0,
+        "PM25_pred": null,
+        "O3_true": 20.5310001373291,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-02 14:00",
+        "TimeIndex": -16,
+        "PM25_true": 2.0000000000000018,
+        "PM25_pred": null,
+        "O3_true": 22.16900062561035,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-02 15:00",
+        "TimeIndex": -15,
+        "PM25_true": 0.0,
+        "PM25_pred": null,
+        "O3_true": 22.40399932861328,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-02 16:00",
+        "TimeIndex": -14,
+        "PM25_true": 8.0,
+        "PM25_pred": null,
+        "O3_true": 22.60400009155273,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-02 17:00",
+        "TimeIndex": -13,
+        "PM25_true": 8.0,
+        "PM25_pred": null,
+        "O3_true": 30.47699928283691,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-02 18:00",
+        "TimeIndex": -12,
+        "PM25_true": 8.0,
+        "PM25_pred": null,
+        "O3_true": 39.3650016784668,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-02 19:00",
+        "TimeIndex": -11,
+        "PM25_true": 7.0,
+        "PM25_pred": null,
+        "O3_true": 34.85599899291992,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-02 20:00",
+        "TimeIndex": -10,
+        "PM25_true": 7.0,
+        "PM25_pred": null,
+        "O3_true": 28.48999977111816,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-02 21:00",
+        "TimeIndex": -9,
+        "PM25_true": 5.0,
+        "PM25_pred": null,
+        "O3_true": 33.55899810791016,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-02 22:00",
+        "TimeIndex": -8,
+        "PM25_true": 3.0,
+        "PM25_pred": null,
+        "O3_true": 41.71799850463867,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-02 23:00",
+        "TimeIndex": -7,
+        "PM25_true": 4.0,
+        "PM25_pred": null,
+        "O3_true": 46.95399856567383,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-03 00:00",
+        "TimeIndex": -6,
+        "PM25_true": 9.0,
+        "PM25_pred": null,
+        "O3_true": 49.34400177001953,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-03 01:00",
+        "TimeIndex": -5,
+        "PM25_true": 6.000000000000002,
+        "PM25_pred": null,
+        "O3_true": 47.05099868774414,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-03 02:00",
+        "TimeIndex": -4,
+        "PM25_true": 5.0,
+        "PM25_pred": null,
+        "O3_true": 46.37099838256836,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-03 03:00",
+        "TimeIndex": -3,
+        "PM25_true": 4.0,
+        "PM25_pred": null,
+        "O3_true": 48.13600158691406,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-03 04:00",
+        "TimeIndex": -2,
+        "PM25_true": 6.000000000000002,
+        "PM25_pred": null,
+        "O3_true": 45.25199890136719,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-03 05:00",
+        "TimeIndex": -1,
+        "PM25_true": 7.0,
+        "PM25_pred": null,
+        "O3_true": 40.37900161743164,
+        "O3_pred": null
+    },
+    {
+        "TimePoint": "2024-06-03 06:00",
+        "TimeIndex": 0,
+        "PM25_true": 7.0,
+        "PM25_pred": 7.0,
+        "O3_true": 41.51300048828125,
+        "O3_pred": 41.51300048828125
+    },
+    {
+        "TimePoint": "2024-06-03 07:00",
+        "TimeIndex": 1,
+        "PM25_true": null,
+        "PM25_pred": 8.992284178352126,
+        "O3_true": null,
+        "O3_pred": 34.02267601209335
+    },
+    {
+        "TimePoint": "2024-06-03 08:00",
+        "TimeIndex": 2,
+        "PM25_true": null,
+        "PM25_pred": 9.135011638184364,
+        "O3_true": null,
+        "O3_pred": 36.33753795178477
+    },
+    {
+        "TimePoint": "2024-06-03 09:00",
+        "TimeIndex": 3,
+        "PM25_true": null,
+        "PM25_pred": 9.260497441402707,
+        "O3_true": null,
+        "O3_pred": 39.531517993943666
+    },
+    {
+        "TimePoint": "2024-06-03 10:00",
+        "TimeIndex": 4,
+        "PM25_true": null,
+        "PM25_pred": 9.398377626363047,
+        "O3_true": null,
+        "O3_pred": 42.84673070088003
+    },
+    {
+        "TimePoint": "2024-06-03 11:00",
+        "TimeIndex": 5,
+        "PM25_true": null,
+        "PM25_pred": 9.527071025381794,
+        "O3_true": null,
+        "O3_pred": 45.58835670000407
+    },
+    {
+        "TimePoint": "2024-06-03 12:00",
+        "TimeIndex": 6,
+        "PM25_true": null,
+        "PM25_pred": 9.644662367870101,
+        "O3_true": null,
+        "O3_pred": 47.134893190334694
+    },
+    {
+        "TimePoint": "2024-06-03 13:00",
+        "TimeIndex": 7,
+        "PM25_true": null,
+        "PM25_pred": 9.748490416703097,
+        "O3_true": null,
+        "O3_pred": 47.006040120998875
+    },
+    {
+        "TimePoint": "2024-06-03 14:00",
+        "TimeIndex": 8,
+        "PM25_true": null,
+        "PM25_pred": 9.84871527228409,
+        "O3_true": null,
+        "O3_pred": 45.81288951626313
+    }
+]
